@@ -26,6 +26,10 @@ The primary goal is to build a strong statistical foundation before moving into 
 - Verified missing values
 - Basic dataset overview
 
+  <img width="882" height="755" alt="Screenshot 2026-02-20 224254" src="https://github.com/user-attachments/assets/1bfb4fb9-55d5-4f81-bdf6-9680e407ad56" />
+  This Heatmap shows the Distribution between the diifferent Categories of the Dataset
+
+
 ### 2️⃣ Measures of Central Tendency
 - Mean
 - Median
